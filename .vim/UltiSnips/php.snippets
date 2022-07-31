@@ -1,0 +1,23 @@
+snippet gtype "Defining type"
+'${1}' => [
+    'type' => type::nonNull(type::${2}()),
+    'description' => '${3}',
+],
+endsnippet
+
+snippet class "Estrutura de uma classe"
+class ${1}
+{
+    public function __construct(){
+        ${2}
+    }
+}
+endsnippet
+
+snippet if "estrutura if"
+if (${1}){
+    ${2};
+}
+endsnippet
+
+

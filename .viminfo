@@ -1,0 +1,1406 @@
+# Este ficheiro viminfo foî gerado pelo Vim 8.2.
+# Pode editar apenas se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Value of 'encoding' when this file was written
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~MSle0~/themes
+
+# Last Substitute Search Pattern:
+~MSle0&paulo.cruz
+
+# Last Substitute String:
+$paulocruz
+
+# Command Line History (newest to oldest):
+:wq
+|2,0,1659255248,,"wq"
+:q
+|2,0,1659255243,,"q"
+:q!
+|2,0,1659001190,,"q!"
+:w
+|2,0,1656585384,,"w"
+:bl
+|2,0,1656584193,,"bl"
+:b1
+|2,0,1656584189,,"b1"
+:b2
+|2,0,1656584119,,"b2"
+:1
+|2,0,1656584108,,"1"
+:.!
+|2,0,1656584042,,".!"
+:!grep -R bl
+|2,0,1656584039,,"!grep -R bl"
+:set nowrap
+|2,0,1656580507,,"set nowrap"
+:nowrap
+|2,0,1656580504,,"nowrap"
+:b3
+|2,0,1656580369,,"b3"
+:b5
+|2,0,1656580364,,"b5"
+:buffers
+|2,0,1656580341,,"buffers"
+:b4
+|2,0,1656579862,,"b4"
+:bNext
+|2,0,1656519782,,"bNext"
+:bprevious
+|2,0,1656519759,,"bprevious"
+:bnext
+|2,0,1656510655,,"bnext"
+:blist
+|2,0,1656509670,,"blist"
+:Q
+|2,0,1654523399,,"Q"
+:Wq
+|2,0,1654027864,,"Wq"
+:tabedit .
+|2,0,1654027758,,"tabedit ."
+:bn
+|2,0,1651051651,,"bn"
+:!
+|2,0,1646235866,,"!"
+:ew
+|2,0,1644942851,,"ew"
+:q1
+|2,0,1641912713,,"q1"
+:%s/paulo.cruz/paulocruz/g
+|2,0,1641754311,,"%s/paulo.cruz/paulocruz/g"
+:%s/paulocruz.com.pt/devbrain.pt/g
+|2,0,1641754275,,"%s/paulocruz.com.pt/devbrain.pt/g"
+:!touch wpcli_install.sh
+|2,0,1641654176,,"!touch wpcli_install.sh"
+:WQ
+|2,0,1641562521,,"WQ"
+:W
+|2,0,1641562341,,"W"
+:i
+|2,0,1641291099,,"i"
+:.q!
+|2,0,1638321470,,".q!"
+:'<,'>q
+|2,0,1636201946,,"'<,'>q"
+:19
+|2,0,1631359092,,"19"
+:23
+|2,0,1631358888,,"23"
+:20
+|2,0,1631358814,,"20"
+:wall
+|2,0,1631356518,,"wall"
+:buffes
+|2,0,1631356419,,"buffes"
+:%s/ProxyJump administrador@93.108.244.210:225/#ProxyJump administrador@93.108.244.210:225/g
+|2,0,1629067337,,"%s/ProxyJump administrador@93.108.244.210:225/#ProxyJump administrador@93.108.244.210:225/g"
+:tabedit ~/.ssh/confighiperclima
+|2,0,1628960802,,"tabedit ~/.ssh/confighiperclima"
+:a
+|2,0,1628113339,,"a"
+:buffer xubuntuWorkStationPrep.sh
+|2,0,1628109409,,"buffer xubuntuWorkStationPrep.sh"
+:qall
+|2,0,1628110408,,"qall"
+::q
+|2,0,1627291966,,":q"
+:edit .
+|2,0,1625749628,,"edit ."
+:split
+|2,0,1625749624,,"split"
+:%s/http:staging.ambicert.pt/http:\/\/staging.ambicert.pt/g
+|2,0,1624809840,,"%s/http:staging.ambicert.pt/http:\\/\\/staging.ambicert.pt/g"
+:qq
+|2,0,1624809820,,"qq"
+
+# Search String History (newest to oldest):
+?/themes
+|2,1,1656581561,47,"themes"
+?/woocomm
+|2,1,1656581421,47,"woocomm"
+?/woocmm
+|2,1,1656581414,47,"woocmm"
+?/files
+|2,1,1656583487,47,"files"
+?/buffer
+|2,1,1656583241,47,"buffer"
+?/add_to_cart
+|2,1,1656581278,47,"add_to_cart"
+?/plugin
+|2,1,1656581215,47,"plugin"
+?/filter
+|2,1,1656519689,47,"filter"
+?/apply_filter
+|2,1,1656519684,47,"apply_filter"
+?/hide_add_to_cart
+|2,1,1656510700,47,"hide_add_to_cart"
+?/hide_add_to
+|2,1,1656509531,47,"hide_add_to"
+?/add_filter
+|2,1,1656509486,47,"add_filter"
+?/add to cart
+|2,1,1656509354,47,"add to cart"
+?/dns
+|2,1,1655136096,47,"dns"
+?/DB_NAME
+|2,1,1654544027,47,"DB_NAME"
+?/wp-config
+|2,1,1654544009,47,"wp-config"
+?/wp-con	/wp-config
+|2,1,1654544003,47,"wp-con	/wp-config"
+?/config
+|2,1,1654516888,47,"config"
+?/virsh_
+|2,1,1654027781,47,"virsh_"
+?/bin
+|2,1,1654027766,47,"bin"
+?/.bash_aliases
+|2,1,1654027745,47,".bash_aliases"
+?/wp-con
+|2,1,1653599936,47,"wp-con"
+?/montrave_mv487
+|2,1,1653600671,47,"montrave_mv487"
+?/Ambi
+|2,1,1651051613,47,"Ambi"
+?/nvuni
+|2,1,1651051535,47,"nvuni"
+?/backupserver
+|2,1,1650801649,47,"backupserver"
+?/alias
+|2,1,1650187631,47,"alias"
+?/ambicer
+|2,1,1649627813,47,"ambicer"
+?/ambicert
+|2,1,1648897555,47,"ambicert"
+?/backupser
+|2,1,1648491154,47,"backupser"
+?/nvun
+|2,1,1647941987,47,"nvun"
+?/hosts
+|2,1,1647546793,47,"hosts"
+?/proxmox
+|2,1,1647276714,47,"proxmox"
+?/wordpress
+|2,1,1646775668,47,"wordpress"
+?/ubuntuser
+|2,1,1644942838,47,"ubuntuser"
+?/ubuntuserver
+|2,1,1644942829,47,"ubuntuserver"
+?/nvunifor
+|2,1,1644421120,47,"nvunifor"
+?/Ubuntu
+|2,1,1643665185,47,"Ubuntu"
+?/sampserver
+|2,1,1643613620,47,"sampserver"
+?/sampser
+|2,1,1643613573,47,"sampser"
+?/clien
+|2,1,1643583458,47,"clien"
+?/sampserv
+|2,1,1643483063,47,"sampserv"
+?/index
+|2,1,1641926411,47,"index"
+?/Pro
+|2,1,1641857886,47,"Pro"
+? paulo.cruz
+|2,1,1641754311,,"paulo.cruz"
+? paulocruz.com.pt
+|2,1,1641754275,,"paulocruz.com.pt"
+?/path
+|2,1,1641637588,47,"path"
+?/wp-coni
+|2,1,1641562051,47,"wp-coni"
+?/backup01
+|2,1,1639942629,47,"backup01"
+?/devbrain
+|2,1,1639755121,47,"devbrain"
+
+# Expression History (newest to oldest):
+
+# Input Line History (newest to oldest):
+@/home/paulo/DevProjects/iznog/_drafts/2021-11-21-obter-mime-type-de-ficheiro.md
+|2,3,1637538709,,"/home/paulo/DevProjects/iznog/_drafts/2021-11-21-obter-mime-type-de-ficheiro.md"
+
+# Debug Line History (newest to oldest):
+
+# Registers:
+"0	CHAR	0
+	ywraq_hide_add_to_cart_single
+|3,0,0,0,1,0,1656519774,"ywraq_hide_add_to_cart_single"
+""1	CHAR	0
+	function keep_add_to_cart_button($product) {
+	    if(!empty($product)){
+	        return;
+	    }
+	    if ( ! $product->managing_stock() && !$product->is_in_stock()
+	    return $product->is_in_stock();
+	}
+	
+|3,1,1,0,8,0,1656585155,"function keep_add_to_cart_button($product) {","    if(!empty($product)){","        return;","    }","    if ( ! $product->managing_stock() && !$product->is_in_stock()","    return $product->is_in_stock();","}",""
+"2	CHAR	0
+	  return
+	    }
+	    return false;
+	
+|3,0,2,0,4,0,1656584407,"  return","    }","    return false;",""
+"3	CHAR	0
+		<div class="product-info">
+			<a href="<?php echo esc_url( $product->get_permalink() ); ?>">
+				<span class="product-title"><?php echo wp_kses_post( $product->get_name() ); ?></span>
+			</a>
+	
+|3,0,3,0,5,0,1656583753,"	<div class=\"product-info\">","		<a href=\"<?php echo esc_url( $product->get_permalink() ); ?>\">","			<span class=\"product-title\"><?php echo wp_kses_post( $product->get_name() ); ?></span>","		</a>",""
+"4	CHAR	0
+	unction yithproteo_child_enqueue_styles() {
+		wp_enqueue_style( 'yith-proteo-style', get_template_directory_uri() . '/style.css', array( 'select2' ), YITH_PROTEO_VERSION );
+		wp_enqueue_style( 'yith-proteo-child-style',
+			get_stylesheet_directory_uri() . '/style.css',
+			array( 'yith-proteo-style' ),
+|3,0,4,0,5,0,1656580869,"unction yithproteo_child_enqueue_styles() {","	wp_enqueue_style( 'yith-proteo-style', get_template_directory_uri() . '/style.css', array( 'select2' ), YITH_PROTEO_VERSION );","	wp_enqueue_style( 'yith-proteo-child-style',","		get_stylesheet_directory_uri() . '/style.css',","		array( 'yith-proteo-style' ),"
+"5	CHAR	0
+	'name'      => esc_html__( 'Hide prices', 'yith-woocommerce-request-a-quote' ),
+			'desc'      => esc_html__( 'Enable to hide prices on all products.', 'yith-woocommerce-request-a-quote' ),
+			'id'        => 'ywraq_hide_price',
+			'type'      => 'yith-field',
+			'yith-type' => 'onoff',
+|3,0,5,0,5,0,1656580727,"'name'      => esc_html__( 'Hide prices', 'yith-woocommerce-request-a-quote' ),","		'desc'      => esc_html__( 'Enable to hide prices on all products.', 'yith-woocommerce-request-a-quote' ),","		'id'        => 'ywraq_hide_price',","		'type'      => 'yith-field',","		'yith-type' => 'onoff',"
+"6	LINE	0
+			'default'   => 'no',
+		),
+	
+	
+		'hide_price'                   => array(
+|3,0,6,1,5,0,1656580724,"		'default'   => 'no',","	),","","","	'hide_price'                   => array("
+"7	LINE	0
+			 * Hide add to cart in loop
+			 *
+			 * Hide the button add to cart in the shop page
+			 *
+			 * @param string     $link .
+|3,0,7,1,5,0,1656580714,"		 * Hide add to cart in loop","		 *","		 * Hide the button add to cart in the shop page","		 *","		 * @param string     $link ."
+"8	LINE	0
+				}
+	
+			}
+	
+			/**
+|3,0,8,1,5,0,1656580714,"			}","","		}","","		/**"
+"9	LINE	0
+						$css = '.cart button.single_add_to_cart_button, .cart a.single_add_to_cart_button{
+		                 display:none!important;
+		                }';
+					}
+					wp_add_inline_style( 'yith_ywraq_frontend', apply_filters( 'yith_ywrad_hide_cart_single_css', $css ) );
+|3,0,9,1,5,0,1656580714,"					$css = '.cart button.single_add_to_cart_button, .cart a.single_add_to_cart_button{","	                 display:none!important;","	                }';","				}","				wp_add_inline_style( 'yith_ywraq_frontend', apply_filters( 'yith_ywrad_hide_cart_single_css', $css ) );"
+"-	CHAR	0
+	 
+|3,0,36,0,1,0,1656584412," "
+
+# File marks:
+'0  50  0  ~/dev/vim/.vimrc
+|4,48,50,0,1659255248,"~/dev/vim/.vimrc"
+'1  3  25  /etc/hosts
+|4,49,3,25,1659001190,"/etc/hosts"
+'2  42  26  ~/.ssh/configs/config_devbraindev
+|4,50,42,26,1658853206,"~/.ssh/configs/config_devbraindev"
+'3  1  0  ~/.ssh/configs/config_humansoft
+|4,51,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+'4  113  0  ~/.ssh/configs/config_devbrain
+|4,52,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+'5  38  0  ~/.ssh/configs/config_devbraindev
+|4,53,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+'6  38  0  ~/.ssh/configs/config_devbraindev
+|4,54,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+'7  17  0  ~/.ssh/configs/config_devbrain
+|4,55,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+'8  17  0  ~/.ssh/configs/config_devbrain
+|4,56,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+'9  15  27  ~/dev/bcwc_pcie/x509.genkey
+|4,57,15,27,1657633839,"~/dev/bcwc_pcie/x509.genkey"
+
+# Jumplist (newest first):
+-'  50  0  ~/dev/vim/.vimrc
+|4,39,50,0,1659255248,"~/dev/vim/.vimrc"
+-'  6  0  ~/dev/vim/NERD_tree_1
+|4,39,6,0,1659255238,"~/dev/vim/NERD_tree_1"
+-'  7  2  ~/dev/vim/NERD_tree_1
+|4,39,7,2,1659255190,"~/dev/vim/NERD_tree_1"
+-'  1  0  ~/dev/vim/NERD_tree_1
+|4,39,1,0,1659255190,"~/dev/vim/NERD_tree_1"
+-'  1  0  ~/dev/vim/README.md
+|4,39,1,0,1659255149,"~/dev/vim/README.md"
+-'  3  25  /etc/hosts
+|4,39,3,25,1659001190,"/etc/hosts"
+-'  3  25  /etc/hosts
+|4,39,3,25,1659001190,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1659001164,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1659001164,"/etc/hosts"
+-'  42  26  ~/.ssh/configs/config_devbraindev
+|4,39,42,26,1658853206,"~/.ssh/configs/config_devbraindev"
+-'  42  26  ~/.ssh/configs/config_devbraindev
+|4,39,42,26,1658853206,"~/.ssh/configs/config_devbraindev"
+-'  42  26  ~/.ssh/configs/config_devbraindev
+|4,39,42,26,1658853206,"~/.ssh/configs/config_devbraindev"
+-'  42  26  ~/.ssh/configs/config_devbraindev
+|4,39,42,26,1658853206,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1658853130,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1658853130,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1658853130,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1658853130,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_humansoft
+|4,39,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+-'  1  0  ~/.ssh/configs/config_humansoft
+|4,39,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+-'  1  0  ~/.ssh/configs/config_humansoft
+|4,39,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+-'  1  0  ~/.ssh/configs/config_humansoft
+|4,39,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+-'  1  0  ~/.ssh/configs/config_humansoft
+|4,39,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+-'  1  0  ~/.ssh/configs/config_humansoft
+|4,39,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+-'  1  0  ~/.ssh/configs/config_humansoft
+|4,39,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+-'  1  0  ~/.ssh/configs/config_humansoft
+|4,39,1,0,1658677435,"~/.ssh/configs/config_humansoft"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  113  0  ~/.ssh/configs/config_devbrain
+|4,39,113,0,1657887760,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  1  0  ~/.ssh/configs/config_devbrain
+|4,39,1,0,1657887692,"~/.ssh/configs/config_devbrain"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  38  0  ~/.ssh/configs/config_devbraindev
+|4,39,38,0,1657745225,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  1  0  ~/.ssh/configs/config_devbraindev
+|4,39,1,0,1657745204,"~/.ssh/configs/config_devbraindev"
+-'  17  0  ~/.ssh/configs/config_devbrain
+|4,39,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+-'  17  0  ~/.ssh/configs/config_devbrain
+|4,39,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+-'  17  0  ~/.ssh/configs/config_devbrain
+|4,39,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+-'  17  0  ~/.ssh/configs/config_devbrain
+|4,39,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+-'  17  0  ~/.ssh/configs/config_devbrain
+|4,39,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+-'  17  0  ~/.ssh/configs/config_devbrain
+|4,39,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+-'  17  0  ~/.ssh/configs/config_devbrain
+|4,39,17,0,1657745199,"~/.ssh/configs/config_devbrain"
+
+# History of marks within files (newest to oldest):
+
+> ~/dev/vim/.vimrc
+	*	1659255244	0
+	"	50	0
+	^	22	0
+	.	20	10
+	+	20	10
+
+> ~/dev/vim/NERD_tree_1
+	*	1659255234	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/dev/vim/README.md
+	*	1659255151	0
+	"	1	0
+
+> /etc/hosts
+	*	1659001186	0
+	"	3	25
+	^	3	26
+	.	3	25
+	+	3	23
+	+	4	26
+	+	6	0
+	+	7	12
+	+	8	19
+	+	11	26
+	+	3	25
+
+> ~/NERD_tree_1
+	*	1659001164	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.ssh/configs/config_devbraindev
+	*	1658853203	0
+	"	42	26
+	^	9	27
+	.	9	26
+	+	6	10
+	+	3	17
+	+	8	16
+	+	11	0
+	+	23	14
+	+	26	12
+	+	12	0
+	+	13	23
+	+	14	25
+	+	18	16
+	+	13	20
+	+	18	24
+	+	19	25
+	+	12	0
+	+	15	17
+	+	14	26
+	+	19	26
+	+	4	26
+	+	9	26
+
+> ~/.ssh/configs/config_humansoft
+	*	1658677434	0
+	"	1	0
+	^	26	30
+	.	26	29
+	+	6	13
+	+	8	0
+	+	20	0
+	+	21	24
+	+	14	16
+	+	20	19
+	+	27	5
+	+	8	14
+	+	14	14
+	+	20	14
+	+	32	0
+	+	28	12
+	+	29	4
+	+	26	29
+
+> ~/.ssh/configs/NERD_tree_1
+	*	1658677426	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.ssh/configs/config_devbrain
+	*	1657887743	0
+	"	113	0
+	^	88	13
+	.	88	12
+	+	106	5
+	+	111	12
+	+	104	19
+	+	104	0
+	+	104	19
+	+	104	23
+	+	104	12
+	+	104	24
+	+	104	11
+	+	104	3
+	+	104	24
+	+	104	0
+	+	104	23
+	+	104	0
+	+	104	37
+	+	104	1
+	+	104	27
+	+	104	0
+	+	104	12
+	+	104	23
+	+	104	32
+	+	104	24
+	+	104	25
+	+	104	27
+	+	104	23
+	+	113	0
+	+	112	0
+	+	52	26
+	+	4	0
+	+	3	1
+	+	4	0
+	+	124	35
+	+	125	38
+	+	129	0
+	+	126	38
+	+	127	37
+	+	128	20
+	+	56	0
+	+	56	13
+	+	104	0
+	+	104	4
+	+	104	36
+	+	104	24
+	+	104	26
+	+	104	24
+	+	104	12
+	+	104	0
+	+	64	36
+	+	66	27
+	+	83	0
+	+	79	25
+	+	81	12
+	+	52	26
+	+	104	18
+	+	104	0
+	+	104	26
+	+	104	0
+	+	104	27
+	+	104	12
+	+	104	0
+	+	19	0
+	+	17	34
+	+	18	22
+	+	19	24
+	+	20	11
+	+	21	12
+	+	104	0
+	+	105	0
+	+	105	12
+	+	105	4
+	+	105	24
+	+	105	0
+	+	105	4
+	+	71	46
+	+	75	17
+	+	72	37
+	+	66	32
+	+	104	0
+	+	105	0
+	+	104	0
+	+	106	0
+	+	30	0
+	+	28	0
+	+	45	4
+	+	46	14
+	+	47	12
+	+	65	28
+	+	56	0
+	+	30	32
+	+	31	17
+	+	32	24
+	+	38	19
+	+	89	3
+	+	88	12
+
+> ~/.ssh/NERD_tree_1
+	*	1657887692	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/dev/bcwc_pcie/x509.genkey
+	*	1657633838	0
+	"	15	27
+	^	15	28
+	.	15	27
+	+	15	27
+
+> ~/dev/bcwc_pcie/NERD_tree_1
+	*	1657633831	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.ssh/configs/config_devbraintests
+	*	1657234629	0
+	"	4	0
+	.	5	0
+	+	5	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/themes/yith-proteo-child/functions.php
+	*	1656585388	0
+	"	55	4
+	^	55	5
+	.	55	0
+	+	34	0
+	+	32	0
+	+	39	1
+	+	44	1
+	+	45	1
+	+	46	1
+	+	61	70
+	+	61	0
+	+	63	0
+	+	63	7
+	+	61	70
+	+	63	33
+	+	63	0
+	+	63	44
+	+	63	31
+	+	63	20
+	+	63	22
+	+	63	11
+	+	63	40
+	+	61	72
+	+	63	0
+	+	22	0
+	+	61	70
+	+	63	27
+	+	63	6
+	+	63	0
+	+	63	10
+	+	63	5
+	+	63	42
+	+	64	0
+	+	48	0
+	+	56	4
+	+	53	36
+	+	54	39
+	+	55	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/plugins/woocommerce/templates/content-single-product.php
+	*	1656584189	0
+	"	55	0
+	^	73	2
+
+> ~/Projetos/Montraverbal/lojaonline/NERD_tree_1
+	*	1656584141	0
+	"	11	7
+	.	1	0
+	+	1	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/themes/yith-proteo/woocommerce/content-widget-product.php
+	*	1656584112	0
+	"	1	0
+	^	45	108
+	.	36	0
+	+	36	0
+
+> ~/files.txt
+	*	1656583498	0
+	"	1	0
+
+> ~/.vimrc
+	*	1656583480	0
+	"	160	0
+	^	160	1
+	.	160	1
+	+	160	1
+
+> /.vimrc
+	*	1656583225	0
+	"	1	0
+
+> /NERD_tree_1
+	*	1656583223	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/themes/yith-proteo/woocommerce/content-single-product.php
+	*	1656581600	0
+	"	56	14
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation.php
+	*	1656581398	0
+	"	23	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/plugins/woocommerce/templates/single-product.php
+	*	1656581301	0
+	"	37	19
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/plugins/woocommerce/templates/single-product/review-rating.php
+	*	1656581265	0
+	"	1	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/plugins/yith-woocommerce-request-a-quote-premium/plugin-options/general/settings-options.php
+	*	1656581192	0
+	"	127	5
+	.	123	0
+	+	128	2
+	+	123	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/plugins/yith-woocommerce-request-a-quote-premium/includes/class.yith-request-quote-frontend.php
+	*	1656581182	0
+	"	247	30
+	.	308	0
+	+	323	0
+	+	308	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-content/plugins/yith-woocommerce-request-a-quote-premium/templates/add-to-quote-button.php
+	*	1656579896	0
+	"	28	0
+
+> ~/.ssh/configs/config_ambicert
+	*	1656432416	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Projetos/Montraverbal/lojaonline/phpinf.php
+	*	1656089009	0
+	"	4	1
+	^	4	2
+	.	4	1
+	+	4	1
+
+> /etc/php/8.0/fpm/php.ini
+	*	1656088731	0
+	"	1	0
+
+> /etc/php/8.0/fpm/NERD_tree_1
+	*	1656088730	0
+	"	8	0
+	.	1	0
+	+	1	0
+
+> /etc/nginx/snippets/fastcgi-php.conf
+	*	1656088712	0
+	"	1	0
+
+> /etc/nginx/snippets/NERD_tree_1
+	*	1656088708	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.ssh/configs/config_digitaldesign
+	*	1655898442	0
+	"	12	35
+	^	12	36
+	.	12	35
+	+	1	16
+	+	6	0
+	+	7	16
+	+	8	13
+	+	9	12
+	+	3	36
+	+	8	27
+	+	2	18
+	+	7	18
+	+	12	35
+
+> ~/Apps/teamviewer/NERD_tree_1
+	*	1655898370	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Projetos/Montraverbal/scripts/backup_mv_dev_site.sh
+	*	1655416553	0
+	"	1	0
+	^	1	1
+	.	1	1
+	+	4	28
+	+	3	48
+	+	4	37
+	+	9	0
+	+	4	38
+	+	7	3
+	+	7	0
+	+	7	7
+	+	7	26
+	+	8	0
+	+	9	0
+	+	8	27
+	+	9	0
+	+	10	105
+	+	12	46
+	+	3	42
+	+	8	0
+	+	10	59
+	+	12	36
+	+	12	0
+	+	14	82
+	+	16	6
+	+	10	55
+	+	1	1
+
+> ~/Projetos/Montraverbal/scripts/NERD_tree_1
+	*	1655416547	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> /tmp/crontab.KjSdOf/crontab
+	*	1655416528	0
+	"	1	0
+
+> /tmp/NERD_tree_1
+	*	1655416526	0
+	"	3	11
+	.	1	0
+	+	1	0
+
+> /tmp/virshTUFNN1.xml
+	*	1655136174	0
+	"	13	36
+	^	13	37
+	.	13	36
+	+	14	18
+	+	12	0
+	+	13	45
+	+	14	13
+	+	15	0
+	+	12	28
+	+	13	36
+
+> /tmp/crontab.LwSIn1/crontab
+	*	1654989590	0
+	"	23	0
+
+> ~/Projetos/Montraverbal/lojaonline/wp-config.php
+	*	1654544062	0
+	"	26	0
+	^	26	0
+	.	25	34
+	+	24	36
+	+	28	36
+	+	31	32
+	+	95	0
+	+	82	1
+	+	85	33
+	+	25	34
+
+> /tmp/crontab.ZLCRET/crontab
+	*	1654516310	0
+	"	24	57
+	^	24	58
+	.	24	57
+	+	24	57
+
+> ~/bin/virsh_start_eticadata_vms.sh
+	*	1654027864	0
+	"	4	8
+	^	4	34
+	.	4	33
+	+	4	33
+
+> ~/bin/virsh_show_vms_ips.sh
+	*	1654027862	0
+	"	4	78
+	^	4	79
+	.	4	78
+	+	2	0
+	+	4	19
+	+	4	78
+
+> ~/NERD_tree_2
+	*	1654027788	0
+	"	97	9
+	.	1	0
+	+	1	0
+
+> ~/.bash_aliases
+	*	1654027746	0
+	"	1	0
+	^	5	49
+	.	5	48
+	+	1	18
+	+	2	15
+	+	2	50
+	+	3	36
+	+	2	15
+	+	5	0
+	+	3	15
+	+	4	0
+	+	3	14
+	+	4	61
+	+	5	48
+
+> /tmp/crontab.q3zdZK/crontab
+	*	1653718804	0
+	"	24	0
+	^	24	0
+	.	24	0
+	+	24	0
+
+> /tmp/crontab.x9LPhq/crontab
+	*	1653718789	0
+	"	1	0
+
+> ~/Projetos/Montraverbal/lojaonline/db_change.sh
+	*	1653601551	0
+	"	5	76
+	^	5	77
+	.	5	77
+	+	5	77
+
+> ~/Projetos/Montraverbal/devbrain_montraverbal_2022-05-26/db/montrave_mv487_2022-05-22.sql
+	*	1653600674	0
+	"	3	32
+	^	19	22
+	.	19	21
+	+	22	58
+	+	24	5
+	+	19	0
+	+	20	0
+	+	19	21
+
+> ~/.ssh/configs/config_devbr
+	*	1653582807	0
+	"	1	0
+
+> ~/virsh_start_eticadata_vms.sh
+	*	1653498737	0
+	"	1	0
+
+> ~/bin/NERD_tree_1
+	*	1653498626	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.bash_
+	*	1653498502	0
+	"	1	0
+
+> ~/bin/virsh_start_vms.sh
+	*	1653498466	0
+	"	5	0
+	^	6	0
+	.	5	11
+	+	5	11
+
+> ~/bin/virsh_save_vms.sh
+	*	1653498256	0
+	"	7	0
+	^	7	0
+	.	6	11
+	+	3	77
+	+	3	5
+	+	6	10
+	+	3	11
+	+	6	11
+
+> ~/WorkCloud/Collectives/HBA/Configuração Ligação Triponto.md
+	*	1653304763	0
+	"	1	0
+
+> ~/WorkCloud/Collectives/HBA/NERD_tree_1
+	*	1653304746	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/testesha.txt
+	*	1652373264	0
+	"	3	0
+	^	3	0
+	.	2	8
+	+	1	11
+	+	2	8
+
+> ~/.ssh/configs/config_nvuniformes
+	*	1651855427	0
+	"	17	0
+	.	1	0
+	+	1	0
+
+> /etc/nginx/nginx.conf
+	*	1651505153	0
+	"	31	4
+
+> /etc/nginx/NERD_tree_1
+	*	1651505144	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Projetos/testesvalet/index.php
+	*	1651482471	0
+	"	5	1
+	^	5	2
+	.	5	1
+	+	5	1
+
+> ~/Projetos/testesvalet/NERD_tree_1
+	*	1651482454	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Teste/sync_excludes.txt
+	*	1650896116	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/Teste/NERD_tree_1
+	*	1650894943	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.bashrc
+	*	1650187640	0
+	"	105	0
+	^	109	21
+	.	109	20
+	+	113	0
+	+	108	22
+	+	109	20
+
+> ~/bin/backuphipersuporte_diario.sh
+	*	1649961399	0
+	"	1	0
+
+> ~/Projetos/dbinfrastructure/servers/vms/00-installer-config.yaml
+	*	1648897381	0
+	"	3	0
+	^	13	20
+	.	6	22
+	+	15	12
+	+	6	63
+	+	7	52
+	+	12	90
+	+	6	22
+
+> ~/Projetos/dbinfrastructure/servers/vms/NERD_tree_1
+	*	1648894602	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/WorkCloud/Notas/eticadata_2022-03-31.md
+	*	1648892009	0
+	"	14	0
+	^	14	0
+	.	13	0
+	+	4	1
+	+	3	35
+	+	13	0
+
+> ~/WorkCloud/Notas/NERD_tree_1
+	*	1648735616	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> /etc/host
+	*	1647546800	0
+	"	1	0
+
+> /etc/NERD_tree_1
+	*	1647546798	0
+	"	196	2
+	.	1	0
+	+	1	0
+
+> ~/Desktop/VPN CENFIM/LXVPN01-UDP4-1194-humansoft_support-config.ovpn
+	*	1647519982	0
+	"	17	0
+	^	1	7
+	.	1	7
+	+	1	7
+
+> ~/Desktop/VPN CENFIM/NERD_tree_1
+	*	1647519979	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/NERD_tree_1
+	*	1647518686	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/NERD_tree_3
+	*	1647518584	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/VPN CENFIM/LXVPN01-UDP4-1194-humansoft_support-tls.key
+	*	1647518582	0
+	"	1	0
+
+> ~/.ssh/configs/createglobalconfig.sh
+	*	1646775721	0
+	"	1	0
+
+> ~/Transferências/cepra_hp.sql
+	*	1646319827	0
+	"	24	12
+	^	24	13
+	.	24	12
+	+	24	12
+
+> ~/Transferências/NERD_tree_1
+	*	1646319810	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/WorkCloud/06-Administracao Sistemas/Humansoft/Cepra/Portal/portal_src/client_config.php
+	*	1646319756	0
+	"	77	25
+
+> ~/WorkCloud/06-Administracao Sistemas/Humansoft/Cepra/Portal/portal_src/NERD_tree_1
+	*	1646319704	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/WorkCloud/06-Administracao Sistemas/Humansoft/Cepra/Site/NERD_tree_1
+	*	1646235890	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/WorkCloud/06-Administracao Sistemas/Humansoft/Cepra/Site/NERD_tree_2
+	*	1646235860	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/.muttrc
+	*	1646235521	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	1	0
+	+	9	0
+	+	5	42
+	+	9	7
+	+	8	1
+	+	7	46
+	+	9	0
+	+	1	21
+	+	2	25
+	+	52	0
+	+	45	74
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	48	77
+	+	49	0
+	+	50	0
+	+	49	16
+	+	50	16
+	+	49	56
+	+	50	49
+	+	29	26
+	+	31	20
+	+	29	0
+	+	31	0
+	+	29	0
+	+	28	20
+	+	30	19
+	+	28	36
+	+	29	0
+
+> ~/Projetos/dbinfrastructure/servers/apache/vhosts/wordpress.conf
+	*	1646067051	0
+	"	1	0
+	^	19	142
+	.	19	142
+	+	19	142
+
+> ~/Projetos/dbinfrastructure/servers/apache/vhosts/NERD_tree_1
+	*	1646067049	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/bin/hdmionly.sh
+	*	1645385265	0
+	"	2	0
+	^	7	45
+	.	7	44
+	+	7	44
+
+> ~/bin/rclone_ambicert_umount.sh
+	*	1645097980	0
+	"	4	53
+	^	4	54
+	.	4	53
+	+	3	58
+	+	4	53
+
+> ~/Desktop/RcloneStopPartilhas.desktop
+	*	1645097939	0
+	"	2	12
+	^	2	13
+	.	2	13
+	+	3	37
+	+	2	13
+
+> ~/Desktop/RclonePartilhas.desktop
+	*	1645097859	0
+	"	5	13
+	^	7	21
+	.	2	20
+	+	3	44
+	+	4	13
+	+	5	13
+	+	7	15
+	+	2	20
+
+> ~/bin/rclone_ambicert_mount.sh
+	*	1645097457	0
+	"	1	0
+	^	10	15
+	.	10	14
+	+	3	54
+	+	4	12
+	+	10	78
+	+	11	0
+	+	6	0
+	+	10	22
+	+	6	49
+	+	7	52
+	+	11	71
+	+	10	14
+
+> /etc/ufw/NERD_tree_1
+	*	1644948608	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.ssh/configs/config_
+	*	1644942821	0
+	"	1	0
+
+> ~/WorkCloud/06-Administracao Sistemas/CFPIMM/scripts/vpncfpimm.sh
+	*	1644520892	0
+	"	1	0
+	^	3	136
+	.	3	135
+	+	3	0
+	+	3	135
+
+> ~/WorkCloud/06-Administracao Sistemas/CFPIMM/scripts/NERD_tree_1
+	*	1644520884	0
+	"	4	0
+	.	1	0
+	+	1	0
